@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salah Saha</h1>
+<h1 align="center">Hi 👋, I'm Salah Taha</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salah-taha" alt="salah-taha" /> </p>
