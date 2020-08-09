@@ -33,7 +33,9 @@
 <!-- linked in -->
 <a href="https://linkedin.com/in/salah-taha" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="salah-taha" height="50" width="50" /></a>
 <!-- facebook -->
-<a href="https://fb.com/salahtahaabohemed" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/fb+logo+social+icon-1320191784031142975.png" style="color:blue" alt="salahtahaabohemed" height="50" width="50" /></a>
+<a href="https://fb.com/salahtahaabohemed" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/fb+logo+social+icon-1320191784031142975.png"  alt="salahtahaabohemed" height="50" width="50" /></a>
+<!-- twitter -->
+<a href="https://twitter.com/salahTahaYehia" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/social+tweet+twitter+icon-1320191785390543348.png"  alt="salahTahaYehia" height="50" width="50" /></a>
 
 </p>
 
