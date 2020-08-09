@@ -13,7 +13,11 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=salah-taha&show_icons=true" alt="salah-taha" /> -->
 
-
+- **Comunicate with me**
+<p align="center">
+<a href="https://linkedin.com/in/salah-taha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salah-taha" height="30" width="30" /></a>
+<a href="https://fb.com/salahtahaabohemed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="color:blue" alt="salahtahaabohemed" height="30" width="30" /></a>
+</p>
 
 - **Latest Projects**
 <a href="https://github.com/salah-taha/Homeversity">
@@ -23,8 +27,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=salah-taha&repo=AsimaOnline" />
 </a>
 
-- **Comunicate with me**
-<p align="center">
-<a href="https://linkedin.com/in/salah-taha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salah-taha" height="30" width="30" /></a>
-<a href="https://fb.com/salahtahaabohemed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="color:blue" alt="salahtahaabohemed" height="30" width="30" /></a>
-</p>
+
