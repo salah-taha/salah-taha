@@ -1,50 +1,84 @@
-<h1 align="center">Hi 👋, I'm Salah Taha</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salah-taha" alt="salah-taha" /> </p>
-
-- 💬 Ask me about **Flutter, Node js, Firebase , mongo db**
-
-- 📫 How to reach me **salahtaha065@gmail.com**
-
-<p align="left">
-
-<code height="40"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> </code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/></code>
-
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
 </p>
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah-taha&layout=compact&hide=html" alt="salah-taha" /> -->
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=salah-taha&show_icons=true" alt="salah-taha" /> -->
-
-- **Comunicate with me**
-<p align="center">
-<!-- linked in -->
-<a href="https://linkedin.com/in/salah-taha" target="_blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" alt="salah-taha" height="50" width="50" /></a>
-<!-- facebook -->
-<a href="https://fb.com/salahtahaabohemed" target="_blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/fb+logo+social+icon-1320191784031142975.png"  alt="salahtahaabohemed" height="50" width="50" /></a>
-<!-- twitter -->
-<a href="https://twitter.com/salahTahaYehia" target="_blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/social+tweet+twitter+icon-1320191785390543348.png"  alt="salahTahaYehia" height="50" width="50" /></a>
-
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;a+Computer+Science+engineer" /></a>
 </p>
 
-- **Latest Projects**
-<a href="https://github.com/salah-taha/Flutter-Homeversity">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=salah-taha&repo=Flutter-Homeversity" />
-</a>
-<a href="https://github.com/salah-taha/Flutter-AsimaOnline">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=salah-taha&repo=Flutter-AsimaOnline" />
-</a>
+   <a href="https://www.linkedin.com/in/salah-taha" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+<!--    <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>  
+  <a href="https://www.kaggle.com/aastha124" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>  
+ <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a> -->
 
+- 👋 Hi, I’m Salah
+- 💼 I'm a Software Engineer at Jabal Soft
+- 💬 Talk to me about software engineering
 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a  target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+
+   <a target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+
+  <a target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++-ffa449?style=for-the-badge&logo=cplusplus&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img alt="Java Script" src="https://img.shields.io/badge/Java%20Script-ffd400?style=for-the-badge&logo=javascript&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-46a1fc?style=for-the-badge&logo=dart&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ff9838?style=for-the-badge&logo=kotlin&logoColor=white">
+  </a>
+  
+   <a target="_blank">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-38a8ff?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+
+   
+
+   <a target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-ffcd63?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
+
+   
+<a target="_blank">
+    <img alt="ExpressJs" src="https://img.shields.io/badge/Expressjs-3ee84f?style=for-the-badge&logo=express&logoColor=white">
+  </a>
+
+   <a target="_blank">
+    <img alt="ReactJs" src="https://img.shields.io/badge/ReactJs-63e5ff?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+<a target="_blank">
+    <img alt="MongoDb" src="https://img.shields.io/badge/MongoDb-24cc18?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  
+  <a target="_blank">
+    <img alt="MongoDb" src="https://img.shields.io/badge/MongoDb-24cc18?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+   
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+
+  
+   <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  </a>
+  
+<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
