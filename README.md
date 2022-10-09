@@ -1,6 +1,3 @@
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -14,8 +11,6 @@
    <a href="https://www.linkedin.com/in/salah-taha" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="salah-taha" data-          version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/salah-taha?trk=profile-badge">Salah Taha</a></div>
-              
 
 - 👋 Hi, I’m Salah
 - 💼 I'm a Software Engineer at Jabal Soft
