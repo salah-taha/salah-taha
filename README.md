@@ -55,7 +55,4 @@
       <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
     </a>
     <a><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-  </span>
-  
-  <a href="https://app.daily.dev/salah_taha"><img src="https://api.daily.dev/devcards/d1641fc66d1e4e3bacaea8afca5189f8.png?r=o8o" width="400" alt="Salah Taha's Dev Card"/></a>
-  
+  </span>  
