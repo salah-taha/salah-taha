@@ -26,6 +26,12 @@
     <a> 
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </a>
+     <a>
+      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ff9838?style=for-the-badge&logo=kotlin&logoColor=white">
+    </a>
+     <a>
+      <img alt=".NET" src="https://img.shields.io/badge/.net-ff9838?style=for-the-badge&logo=.net&logoColor=white">
+    </a>
     <a>
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
@@ -35,11 +41,6 @@
     <a>
       <img alt="Java Script" src="https://img.shields.io/badge/Java%20Script-ffd400?style=for-the-badge&logo=javascript&logoColor=white">
     </a>
-    
-    <a>
-      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ff9838?style=for-the-badge&logo=kotlin&logoColor=white">
-    </a>
-   
     <a>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-ffcd63?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
