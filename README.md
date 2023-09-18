@@ -17,6 +17,12 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <span>
+     <a>
+      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-38a8ff?style=for-the-badge&logo=flutter&logoColor=white">
+    </a>
+    <a>
+      <img alt="Dart" src="https://img.shields.io/badge/Dart-46a1fc?style=for-the-badge&logo=dart&logoColor=white">
+    </a>
     <a> 
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     </a>
@@ -29,15 +35,11 @@
     <a>
       <img alt="Java Script" src="https://img.shields.io/badge/Java%20Script-ffd400?style=for-the-badge&logo=javascript&logoColor=white">
     </a>
-    <a>
-      <img alt="Dart" src="https://img.shields.io/badge/Dart-46a1fc?style=for-the-badge&logo=dart&logoColor=white">
-    </a>
+    
     <a>
       <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ff9838?style=for-the-badge&logo=kotlin&logoColor=white">
     </a>
-    <a>
-      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-38a8ff?style=for-the-badge&logo=flutter&logoColor=white">
-    </a>
+   
     <a>
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-ffcd63?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
